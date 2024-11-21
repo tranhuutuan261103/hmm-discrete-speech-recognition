@@ -1,0 +1,264 @@
+{
+    "words": [
+        {
+            "id": 1,
+            "word": "chu",
+            "word_vn": "chủ"
+        },
+        {
+            "id": 2,
+            "word": "ve",
+            "word_vn": "về"
+        },
+        {
+            "id": 3,
+            "word": "vao",
+            "word_vn": "vào"
+        },
+        {
+            "id": 4,
+            "word": "tai",
+            "word_vn": "tải"
+        },
+        {
+            "id": 5,
+            "word": "dau",
+            "word_vn": "đầu"
+        },
+        {
+            "id": 6,
+            "word": "cuoi",
+            "word_vn": "cuối"
+        },
+        {
+            "id": 7,
+            "word": "ke",
+            "word_vn": "kế"
+        },
+        {
+            "id": 8,
+            "word": "truoc",
+            "word_vn": "trước"
+        },
+        {
+            "id": 9,
+            "word": "dung",
+            "word_vn": "dừng"
+        },
+        {
+            "id": 10,
+            "word": "ngung",
+            "word_vn": "ngừng"
+        },
+        {
+            "id": 11,
+            "word": "doc",
+            "word_vn": "đọc"
+        },
+        {
+            "id": 12,
+            "word": "tiep",
+            "word_vn": "tiếp"
+        },
+        {
+            "id": 13,
+            "word": "lui",
+            "word_vn": "lui"
+        },
+        {
+            "id": 14,
+            "word": "toi",
+            "word_vn": "tới"
+        },
+        {
+            "id": 15,
+            "word": "tang",
+            "word_vn": "tăng"
+        },
+        {
+            "id": 16,
+            "word": "to",
+            "word_vn": "to"
+        },
+        {
+            "id": 17,
+            "word": "giam",
+            "word_vn": "giảm"
+        },
+        {
+            "id": 18,
+            "word": "nho",
+            "word_vn": "nhỏ"
+        },
+        {
+            "id": 19,
+            "word": "lai",
+            "word_vn": "lại"
+        },
+        {
+            "id": 20,
+            "word": "lap",
+            "word_vn": "lặp"
+        },
+        {
+            "id": 21,
+            "word": "nhanh",
+            "word_vn": "nhanh"
+        },
+        {
+            "id": 22,
+            "word": "cham",
+            "word_vn": "chậm"
+        },
+        {
+            "id": 23,
+            "word": "luu",
+            "word_vn": "lưu"
+        },
+        {
+            "id": 24,
+            "word": "xoa",
+            "word_vn": "xóa"
+        },
+        {
+            "id": 25,
+            "word": "huy",
+            "word_vn": "hủy"
+        },
+        {
+            "id": 26,
+            "word": "chay",
+            "word_vn": "chạy"
+        },
+        {
+            "id": 27,
+            "word": "xong",
+            "word_vn": "xong"
+        },
+        {
+            "id": 28,
+            "word": "dung",
+            "word_vn": "đúng"
+        },
+        {
+            "id": 29,
+            "word": "sai",
+            "word_vn": "sai"
+        },
+        {
+            "id": 30,
+            "word": "giup",
+            "word_vn": "giúp"
+        },
+        {
+            "id": 31,
+            "word": "gio",
+            "word_vn": "giờ"
+        },
+        {
+            "id": 32,
+            "word": "ngay",
+            "word_vn": "ngày"
+        },
+        {
+            "id": 33,
+            "word": "tuoi",
+            "word_vn": "tươi"
+        },
+        {
+            "id": 34,
+            "word": "co",
+            "word_vn": "có"
+        },
+        {
+            "id": 35,
+            "word": "khong",
+            "word_vn": "không"
+        },
+        {
+            "id": 36,
+            "word": "muc",
+            "word_vn": "mục"
+        },
+        {
+            "id": 37,
+            "word": "bai",
+            "word_vn": "bài"
+        },
+        {
+            "id": 38,
+            "word": "mot",
+            "word_vn": "một"
+        },
+        {
+            "id": 39,
+            "word": "hai",
+            "word_vn": "hai"
+        },
+        {
+            "id": 40,
+            "word": "ba",
+            "word_vn": "ba"
+        },
+        {
+            "id": 41,
+            "word": "bon",
+            "word_vn": "bốn"
+        },
+        {
+            "id": 42,
+            "word": "nam",
+            "word_vn": "năm"
+        },
+        {
+            "id": 43,
+            "word": "sau",
+            "word_vn": "sáu"
+        },
+        {
+            "id": 44,
+            "word": "bay",
+            "word_vn": "bảy"
+        },
+        {
+            "id": 45,
+            "word": "tam",
+            "word_vn": "tám"
+        },
+        {
+            "id": 46,
+            "word": "chin",
+            "word_vn": "chín"
+        },
+        {
+            "id": 47,
+            "word": "a",
+            "word_vn": "a"
+        },
+        {
+            "id": 48,
+            "word": "e",
+            "word_vn": "e"
+        },
+        {
+            "id": 49,
+            "word": "i",
+            "word_vn": "i"
+        },
+        {
+            "id": 50,
+            "word": "o",
+            "word_vn": "o"
+        },
+        {
+            "id": 51,
+            "word": "u",
+            "word_vn": "u"
+        },
+        {
+            "id": 52,
+            "word": "thodia",
+            "word_vn": "Thổ địa"
+        }
+    ]
+}
