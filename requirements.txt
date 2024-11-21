@@ -1,0 +1,8 @@
+hmmlearn
+numpy
+scikit-learn
+librosa
+pyaudio
+pandas
+seaborn
+matplotlib
