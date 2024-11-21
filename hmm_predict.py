@@ -120,5 +120,3 @@ if __name__ == '__main__':
     # hmm_reg.predict(file_name='datasets/nhung/nhung_ (1).wav')
     # hmm_reg.record("nhung")
     hmm_reg.predict('datasets_split/thodia/E52.wav')
-
-
