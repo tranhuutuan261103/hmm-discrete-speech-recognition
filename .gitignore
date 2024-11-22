@@ -3,6 +3,6 @@ __pycache__
 
 datasets
 datasets_split
-models_train
+datasets_test
 
 temp

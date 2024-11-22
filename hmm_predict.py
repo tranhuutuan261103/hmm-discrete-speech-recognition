@@ -39,7 +39,7 @@ class HMMRecognition:
 
     def load_model(self):
         for key in self.class_names:
-            name = f"{self.model_path}/second/model_{key}.pkl"
+            name = f"{self.model_path}/full/model_{key}.pkl"
             with open(name, 'rb') as file:
                 self.model[key] = pickle.load(file)
 
@@ -118,5 +118,6 @@ if __name__ == '__main__':
     # hmm_reg.predict(file_name='datasets/cothe/cothe (1).wav')
     # hmm_reg.predict(file_name='datasets/khong/2.wav')
     # hmm_reg.predict(file_name='datasets/nhung/nhung_ (1).wav')
-    # hmm_reg.record("nhung")
-    hmm_reg.predict('datasets_split/thodia/E52.wav')
+    hmm_reg.record("hai")
+    hmm_reg.predict_record()
+    # hmm_reg.predict('datasets_split/thodia/E52.wav')
